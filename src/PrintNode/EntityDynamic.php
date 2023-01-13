@@ -2,6 +2,7 @@
 
 namespace PrintNode;
 
+#[\AllowDynamicProperties]
 abstract class EntityDynamic extends Entity
 {
 
